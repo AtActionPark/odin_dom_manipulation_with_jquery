@@ -1,6 +1,6 @@
-[html preview](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin_calculator/blob/master/main.html)
+[html preview](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin_dom_manipulationw_ith_jquery/blob/master/main.html)
 
-[Project: Manipulating the DOM with jQuery](http://www.theodinproject.com/javascript-and-jquery/manipulating-the-dom-with-jquery)
+#[Project: Manipulating the DOM with jQuery](http://www.theodinproject.com/javascript-and-jquery/manipulating-the-dom-with-jquery)
 
 Now that you've gotten your hands dirty and learned some real jQuery, it's time to apply it by generating an entire webpage using just Javascript and jQuery.  The webpage will be a simple restaurant home page but the principle of using Javascript to dynamically (re)render the page should stick with you.
 
