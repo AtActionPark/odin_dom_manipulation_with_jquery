@@ -1,5 +1,3 @@
-[html preview](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin_dom_manipulationw_ith_jquery/blob/master/main.html)
-
 #[Project: Manipulating the DOM with jQuery](http://www.theodinproject.com/javascript-and-jquery/manipulating-the-dom-with-jquery)
 
 Now that you've gotten your hands dirty and learned some real jQuery, it's time to apply it by generating an entire webpage using just Javascript and jQuery.  The webpage will be a simple restaurant home page but the principle of using Javascript to dynamically (re)render the page should stick with you.
@@ -14,3 +12,6 @@ Now that you've gotten your hands dirty and learned some real jQuery, it's time 
 1. Next, set up your restaurant site to use tabbed browsing to access the Contact and Menu pages.  [Look at #7 on this hongkiat post](http://www.hongkiat.com/blog/50-nice-clean-css-tab-based-navigation-scripts/) for visual inspiration.  The key here is that each tab should NOT link to a different HTML page... it should instead trigger a Javascript function to wipe out the current page then create the desired page.  It might be easiest to first create three separate HTML pages and then convert them into Javascript.
 2. Keep it simple!  When you click the next tab, your Javascript should automatically remove the "Menu" elements and add in the "Home" elements.
 3. Push your project to Github and share the solution below.
+
+
+[html preview](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin_dom_manipulationw_ith_jquery/blob/master/main.html)

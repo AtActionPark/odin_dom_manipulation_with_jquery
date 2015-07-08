@@ -1,1 +1,91 @@
+*{
 
+}
+
+.logo{
+  float:left;
+  margin-right:20px;
+}
+
+.title{
+  font-family: Comfortaa;
+  font-weight: 700;
+}
+
+.subtitle{
+  font-family: Comfortaa;
+}
+
+
+.container{
+  position:relative;
+  top:50px;
+  margin: 20px 0;
+  clear:both;
+  width:500px;
+}
+
+#tabmenu{
+  color: #000000; 
+  border-bottom: 1px solid black; 
+  margin: 12px 0px 0px 0px; 
+  padding: 0px; 
+  z-index: 1; 
+  padding-left: 10px;
+}
+
+#tabmenu li { 
+  display: inline; 
+  overflow: hidden; 
+  list-style-type: none;
+} 
+
+#tabmenu a, a.active { 
+  color: #ffffff; 
+  background: #000000;
+  font: normal 1em verdana, Arial, sans-serif; 
+  border: 1px solid black; 
+  padding: 2px 5px 0px 5px; 
+  margin: 0px; 
+  text-decoration: none;
+  cursor:hand;
+} 
+
+#tabmenu a.active { 
+  background: #ffffff; 
+  border-bottom: 3px solid #ffffff;
+  color:black;
+} 
+
+#tabmenu a:hover { 
+  background-color: #3f3f3f;
+} 
+
+#tabmenu a:visited { 
+  color: black;
+  border-bottom: 3px solid #ffffff;
+} 
+
+#tabmenu a.active:hover { 
+  background: #ffffff; 
+} 
+
+#content {
+  font: 0.9em/1.3em verdana, sans-serif; 
+  text-align: justify; 
+  background: #ffffff; 
+  padding: 20px; 
+  border: 1px solid black; 
+  border-top: none; 
+  z-index: 2;
+} 
+
+#content a { 
+  font-weight: 700;
+  text-decoration: none; 
+  color:#000000;
+} 
+
+#content a:hover {
+  text-decoration: underline; 
+} 

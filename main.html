@@ -1,10 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script type="text/javascript" src="js/script.js"> </script>
     <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+    <link href='http://fonts.googleapis.com/css?family=Comfortaa:400,700' rel='stylesheet' type='text/css'>
   </head>
 
-  <body onLoad = "init()">
+  <body>
+    <img class="logo" src="image/logo.jpg">
+    <h1 class="title">.Endangered.</h1>
+    <h4 class="subtitle">Taste it while you still can</h4>
+    <div class="container">
+      <ul id="tabmenu" > 
+        <li onclick="makeactive(1)"><a class="" id="tab1">Presentation</a></li> 
+        <li onclick="makeactive(2)"><a class="" id="tab2">Menu</a></li>
+        <li onclick="makeactive(3)"><a class="" id="tab3">Contact</a></li> 
+      </ul> 
+    <div id="content"></div>
+    </div>
   </body>
 </html>
