@@ -14,4 +14,4 @@ Now that you've gotten your hands dirty and learned some real jQuery, it's time 
 3. Push your project to Github and share the solution below.
 
 
-[html preview](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin_dom_manipulationw_ith_jquery/blob/master/main.html)
+[html preview](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin_dom_manipulation_with_jquery/blob/master/main.html)
